@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.container-section{
+    background-color: aqua;
+
+}
+.header-section{
+    background-color: bisque;
+
+}
+.header-one{
+    background-color: aquamarine;
+
+}
+.body-section{
+
+
+}
+.thumbnail{
+    padding: 10px;
+}
+.thumbnail img{
+    width: 300px;
+    height: 200px;
+}
